@@ -23,7 +23,7 @@ class DSMConnection:
     Can be used as a context manager.
     """
 
-    def __init__(self)
+    def __init__(self):
         """
         Establish a connection with a Dell Storage Manager server
         """
@@ -481,7 +481,7 @@ class SSHConnection:
     Can be used as a context manager.
     """
 
-    def __init__(self)
+    def __init__(self):
         """
         Establish a connection with remote Linux host
         """
